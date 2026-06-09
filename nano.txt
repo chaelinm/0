@@ -1,6 +1,7 @@
+
 nano 파일
-ctrl o 저장하기
-ctrl x 종료하기
+*ctrl o 저장하기
+*ctrl x 종료하기
 ctrl w 검색하기
 
 종료가 안될 땐 ctrl x + Y/N + enter
