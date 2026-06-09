@@ -1,0 +1,10 @@
+nano 파일
+ctrl o 저장하기
+ctrl x 종료하기
+ctrl w 검색하기
+
+종료가 안될 땐 ctrl x + Y/N + enter
+Y > 저장 후 종료
+N > 저장 하지 않고 종료
+
+나노가 저장여부를 묻고 enter까지 해야 종료가 됨
